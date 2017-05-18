@@ -14,8 +14,8 @@ import java.net.*;
 public class naverapi {
 
 	public static void main(String[] args) throws Exception{
-		String clientID="PnIzj4L8UHHmNcThrK8C"; //네이버 개발자 센터에서 발급받은 clientID입력
-        String clientSecret = "PEoPxZ9w6Y";        //네이버 개발자 센터에서 발급받은 clientSecret입력
+		String clientID="id"; //네이버 개발자 센터에서 발급받은 clientID입력
+        String clientSecret = "password";        //네이버 개발자 센터에서 발급받은 clientSecret입력
         
         try{
         	
